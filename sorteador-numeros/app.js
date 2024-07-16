@@ -4,6 +4,6 @@ function sortear(){
     let ate = document.getElementById('ate').value;
 
         alert(`Quantidade é: ${quantidade}`);
-        alert(`De: ${de}`)
-        alert(`Até: ${ate}`)
+        alert(`De: ${de}`);
+        alert(`Até: ${ate}`);
 }
